@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aanderson3456
-- 👀 I’m interested in math.
+- 👋 Hi, I’m Austin.
+- 👀 I’m interested in autoformalization and automated theorem proving, particularly for complex analysis and coding theory.
 - 🌱 I’m currently learning Lean.
-- 💞️ I’m looking to collaborate on automated theorem proving.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on autoformalization and automated theorem proving.
+- 📫 How to reach me 
 
 <!---
 aanderson3456/aanderson3456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
